@@ -9,16 +9,20 @@
 - 기획 사진
 <img src="./img/mainpage.png" width="20%" height="20%">
 <img src="./img/recommendpage.png" width="20%" height="20%">
-<img src="./img/loginpage.png" width="25%" height="25%">
-<img src="./img/moviedetail.png" width="25%" height="25%">
+<img src="./img/loginpage.png" width="20%" height="20%">
+<img src="./img/moviedetail.png" width="20%" height="20%">
 
 - 결과 사진
+<img src="./img/mainpage1.PNG" width="20%" height="20%">
+<img src="./img/recommend1.PNG" width="20%" height="20%">
+<img src="./img/login1.PNG" width="20%" height="20%">
+<img src="./img/moviedetail1.PNG" width="20%" height="20%">
 
-구현도는 90%정도.
+- 구현도는 90%정도.
 앞서 계획했던 마이페이지와 영화 찜하는 작업을 수행하지 못함.
-앞으로 추가하고 싶은 기능. 
-웅기 : 마이 페이지 구성, 게시판, 댓글 수정 기능, 찜한 영화 기능.
-무남 : 더 개인 맞춤형 영화 추천
+- 앞으로 추가하고 싶은 기능.  
+    -웅기 : 마이 페이지 구성, 게시판, 댓글 수정 기능, 찜한 영화 기능.
+    -무남 : 더 개인 맞춤형 영화 추천
 
 ## 3. 데이터베이스 모델링 (ERD)
 <img src="./img/ERDDDD.PNG" width="30%" height="30%">
