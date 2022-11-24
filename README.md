@@ -1,16 +1,18 @@
 # final-pjt
 
 ## 1. 업무 분담
-웅기, 무남 : 기획
-웅기 : front-end => vue 컴포넌트 구성, css 디자인(vuetify 활용)
-무남 : back-end => 데이터 가공, django 모델 설계, 알고리즘 구현
+- 웅기, 무남 : 기획
+- 웅기 : front-end => vue 컴포넌트 구성, css 디자인(vuetify 활용)
+- 무남 : back-end => 데이터 가공, django 모델 설계, 알고리즘 구현
 
 ## 2. 목표 서비스 구현 및 실제 구현 정도
-기획 사진
-<img src="./img/메인페이지.png" width="30%" height="30%">
-<img src="./img/추천페이지.png" width="30%" height="30%">
-<img src="./img/로그인.png" width="30%" height="30%">
-결과 자료 사진 첨부
+- 기획 사진
+<img src="./img/mainpage.png" width="20%" height="20%">
+<img src="./img/recommendpage.png" width="20%" height="20%">
+<img src="./img/loginpage.png" width="25%" height="25%">
+<img src="./img/moviedetail.png" width="25%" height="25%">
+
+- 결과 사진
 
 구현도는 90%정도.
 앞서 계획했던 마이페이지와 영화 찜하는 작업을 수행하지 못함.
